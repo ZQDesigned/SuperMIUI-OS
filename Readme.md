@@ -17,6 +17,12 @@ SuperMIUI 维护了一年零三个月，期间我也学到了很多东西，也�
 
 总之，SuperMIUI 是我人生中的一个重要的里程碑，我会永远记得它。长路漫漫，江湖再见了，朋友们。
 
+### SuperMIUI的贡献者们
+
+<img width="294" alt="collaborators" src="https://github.com/ZQDesigned/SuperMIUI-OS/pics/collaborators.png">
+
+以上是所有对原SuperMIUI贡献过代码的开发者，向他们致敬。
+
 ### 关于代码分发
 
 本项目的代码仅供学习交流使用，禁止用于商业用途，有能力的同学可以自行获取该代码并进行二次开发。
