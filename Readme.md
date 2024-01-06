@@ -19,7 +19,7 @@ SuperMIUI 维护了一年零三个月，期间我也学到了很多东西，也�
 
 ### SuperMIUI的贡献者们
 
-<img width="294" alt="collaborators" src="https://github.com/ZQDesigned/SuperMIUI-OS/pics/collaborators.png">
+<img width="294" alt="collaborators" src="https://raw.githubusercontent.com/ZQDesigned/SuperMIUI-OS/main/pics/collaborators.png">
 
 以上是所有对原SuperMIUI贡献过代码的开发者，向他们致敬。
 
